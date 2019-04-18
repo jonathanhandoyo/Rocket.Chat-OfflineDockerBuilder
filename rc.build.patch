@@ -1,0 +1,11 @@
+--- package.json   Fri Mar 29 18:31:48 2019
++++ package.json   Fri Mar 29 18:32:27 2019
+@@ -6,7 +6,7 @@
+     "fibers": "2.0.0",
+     "promise": "8.0.2",
+     "underscore": "1.5.2",
+-    "source-map-support": "https://github.com/meteor/node-source-map-support/tarball/1912478769d76e5df4c365e147f25896aee6375e",
++    "source-map-support": "file://home/node/rc/deps/meteor/node-source-map-support/tarball/1912478769d76e5df4c365e147f25896aee6375e.tgz",
+     "semver": "5.4.1",
+     "node-gyp": "3.7.0",
+     "node-pre-gyp": "0.10.3"
